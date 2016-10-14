@@ -1,0 +1,22 @@
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Eclipse
+.project
+.settings
+.classpath
+.metadata
+.recommenders
+
+# Maven
+target
+
+.tmp
+.DS_Store
